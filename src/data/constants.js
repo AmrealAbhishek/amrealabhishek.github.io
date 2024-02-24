@@ -15,7 +15,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/AmrealAbhishek01",
   resume:
-    "https://drive.google.com/file/d/1LdyERZPdph1zMstCBijZIsdp8HAVA0kJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1M6tNXsH9fWtk9tBVUB6aLEvT7Eo4NNtF/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhishek-kumar-284849215/",
   twitter: "#",
   insta: "https://www.instagram.com/amrealabhishek/",
